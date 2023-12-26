@@ -1,3 +1,15 @@
-[[
-Add cache, cache2, uploads for caching js,css, json parts and files.
-](https://t.me/SyriaFurat1)https://t.me/SyriaFurat1](https://t.me/SyriaFurat1)https://t.me/SyriaFurat1
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>خريطة توزيع السيطرة</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <!-- يمكنك تحميل أي مكتبات أخرى هنا -->
+</head>
+<body>
+    <div id="map" style="height: 500px;"></div>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="your_script.js"></script>
+</body>
+</html>
